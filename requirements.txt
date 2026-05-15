@@ -1,0 +1,18 @@
+--extra-index-url https://download.pytorch.org/whl/cu121
+
+ipykernel
+torch
+torchvision
+ftfy
+regex
+tqdm
+aiohttp
+pandas
+Pillow
+openai-clip  
+scikit-learn
+tqdm
+wandb
+matplotlib
+setuptools
+packaging
