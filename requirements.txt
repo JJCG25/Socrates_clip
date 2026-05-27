@@ -16,3 +16,6 @@ wandb
 matplotlib
 setuptools
 packaging
+peft
+transformers
+accelerate
