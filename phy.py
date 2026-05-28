@@ -3,7 +3,7 @@ import pandas as pd
 from tqdm import tqdm
 import time
 
-COHERE_API_KEY = 'cohere_DGuUVmLmgbBO3b0E8rqWusMYfgWFkKghR6x6TFFZ4NCfd3' # Tu key de $500 USD
+COHERE_API_KEY = '###'
 INPUT_FILE = "dataset_clip_ready.csv"
 OUTPUT_FILE = "dataset_clip_philosophical.csv"
 
